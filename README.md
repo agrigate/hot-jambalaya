@@ -1,7 +1,7 @@
 # hot-jambalaya
-This soup is a little gitty
 <html>
 <head>
+</head>
 <body>
 <div = "recipe">
 <h5>Recipe: Slow Cooker Sausage and Chicken Jambalaya</h5>
@@ -38,5 +38,4 @@ In a slow cooker, combine chicken, sausage, tomatoes, onion, bell pepper, celery
 </p>
 </div>
 <body>
-</head>
 </html>
