@@ -6,7 +6,7 @@ This soup is a little gitty
 <div = "recipe">
 <h5>Recipe: Slow Cooker Sausage and Chicken Jambalaya</h5><br />
 
-<br />
+
 <p>Jamie Geller shares her recipe for Sausage and Chicken Jambalaya made easy in a slow cooker.</p><br />
 
 <h5>Times</h5>
@@ -17,7 +17,7 @@ This soup is a little gitty
 </ul><br />
 
 <h5>Servings: 6</h5><br />
-<br />
+
 <h5>Ingredients</h5><ul>
 <li>2 boneless skinless chicken breasts (1 lb), cut into 1-inch cubes</li>
 <li>1/2 pound beef sausage, casing removed and crumbled</li>
@@ -35,7 +35,7 @@ This soup is a little gitty
 <li>3 green onions, chopped</li> 
 </ul>
 <br />
-<h5>Directions</h5><br />
+<h5>Directions</h5>
 In a slow cooker, combine chicken, sausage, tomatoes, onion, bell pepper, celery, garlic, stock, rice, bay leaves, Cajun seasoning, oregano and hot sauce. Cook on high for 3 hours. Remove bay leaves before serving. Garnish with green onion to serve.
 </p>
 </div>
