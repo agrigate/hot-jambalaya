@@ -4,9 +4,7 @@ This soup is a little gitty
 <head>
 <body>
 <div = "recipe">
-<h5>Recipe: Slow Cooker Sausage and Chicken Jambalaya</h5><br />
-
-
+<h5>Recipe: Slow Cooker Sausage and Chicken Jambalaya</h5>
 <p>Jamie Geller shares her recipe for Sausage and Chicken Jambalaya made easy in a slow cooker.</p><br />
 
 <h5>Times</h5>
